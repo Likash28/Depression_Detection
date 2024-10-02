@@ -1,18 +1,3 @@
-Flask
-requests
-textblob
-pillow
 gunicorn  # Optional, only if deploying using Gunicorn
-pymongo  # For connecting to MongoDB
-cloudinary  # Required for uploading files to Cloudinary
-werkzeug # For secure file handling with secure_filename
-langchain_community
-langchain_text_splitters
-langchain-openai
-langchain
-openai
+Flask
 langchain-groq
-tensorflow
-transformers
-sklearn
-nlkt
