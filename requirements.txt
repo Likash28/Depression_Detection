@@ -8,7 +8,7 @@ cloudinary  # Required for uploading files to Cloudinary
 werkzeug # For secure file handling with secure_filename
 langchain_community
 langchain_text_splitters
-langchain-openai==0.0.3  # Replace with the correct version if needed
+langchain-openai
 langchain
 openai
 langchain-groq
