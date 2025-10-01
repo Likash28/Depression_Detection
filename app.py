@@ -5,7 +5,7 @@ from langchain_groq import ChatGroq
 app = Flask(__name__)
 
 # API Key directly defined in the code
-groq_api_key = "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"
+groq_api_key = ""
 
 # Initialize ChatGroq model
 llm = ChatGroq(
